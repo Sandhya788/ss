@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/22700097/how-to-point-correctly-to-static-image-in-django

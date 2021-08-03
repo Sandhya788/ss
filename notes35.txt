@@ -1,0 +1,1 @@
+we hv to delete makemigrations folder and db sqlite for using forgein key

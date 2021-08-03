@@ -1,0 +1,47 @@
+#manage.py createsuperuser to acces admin
+
+### Model:
+==========
+	- model is a class 
+	- this class will represents db table or collection in db.
+	- in that class each and every feild will acts like as a db columns.
+	- we have to import
+	     # varchar allows combination of letters and numbers
+	- to convert a model class to db table we hav to run 2 commands on cmdprompt
+		-'''python manage.py makemigrations'''
+		- after running this makemigrations command it will generate a interface file
+		- by using this interface file we hv to create a db table.
+		- for that we hv to run command 
+			'''python manage.py migrate'''
+		- after running this command it will generate db table with the name of 'appname_modelclass'
+###create table register(name varchar(50),email varchar(50))	
+
+	-To acccess user models inside admin portal we hv to register user model classes inside admin.py
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

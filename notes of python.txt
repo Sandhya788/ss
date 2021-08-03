@@ -1,0 +1,11 @@
+* first to create a project we have to run cmd from
+select one drive(:E)->E:\apssdc\internship\day15 from here open command prompt and  run a command i.e,django-admin startproject ProjectName
+			ex:django-admin startproject FirstName
+next step:
+	run project
+		you have to open cmd from project location.
+then run a command to run your project server.
+	'''python manage.py runserver'''
+http://127.0.0.1:8000/ 
+E:\apssdc\internship\day15 for subline there we hv to select FirstProject folder
+path('',views.home), ila single quotations madhya space isthe adhe first execute avvali ani ardham

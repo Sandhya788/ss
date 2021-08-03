@@ -1,0 +1,72 @@
+Git and Github:
+===============
+
+
+Github Download files
+=====================
+	->https://git-scm.com
+
+local -> Server->Local=>file->error
+sample.c ->server ->sample.c
+    v                  v
+
+    sample.c ->server ->sample.c
+       v                   v
+       d                   d
+
+local ->server->norollback
+
+
+day01:
+emp1 ->server
+emp2 -> server
+day-02:
+emp1->server
+emp2->server
+
+
+Distributed version control:
+============================
+	TeamLead
+		Emp1 ->Local -> Work -> Online
+		Emp2 -> Emp1 ->sample.py -> online
+
+
+		Git and Github[storage]
+
+		gmail ->mail
+		github -> create
+
+		local work:
+		===========
+		git commands
+			->git init
+
+
+		Folder ->APSSDC
+					-> right click gitbash
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

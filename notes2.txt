@@ -1,0 +1,35 @@
+CRUD=>Register=>name,email
+
+
+url=>views=>template=>views=>Model[database]
+			url=>
+
+
+
+			Restaurant=>Project Folder
+				Restaurant => Admin App
+				RestApp => UserApp
+
+			django-admin startproject ProjectName
+				'''django-admin startproject Restaurant'''
+
+			cd Restaurant
+
+			manage.py startapp AppName
+				''' manage.py startapp RestApp'''
+settings.py lo RestApp pettali first
+Admin=>urls.py
+user-1 =>urls =>path('n/<int:p>/',views.index)
+user-2 =>urls =>path('m/<int:qy>/',views.index) conflicts vasthayi
+  		solution:
+  		=========
+  		admin =>urls.py
+  				path('admin/',)
+  				path('',)
+
+
+  		user-1 =>urls.py
+  				path('n/<int:p>/',views.index)
+  		user-2 =>urls.py
+  				path('m/<int:qy>/',views.index)
+

@@ -1,1 +1,0 @@
-getscreen().bgcolor("red")
